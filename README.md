@@ -110,7 +110,7 @@ information using location-based services and digital technologies.
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/arindamsahoo2005/arindamsahoo2005/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/arindamsahoo2005/arindamsahoo/output/github-contribution-grid-snake.svg)
 
 ---
 
