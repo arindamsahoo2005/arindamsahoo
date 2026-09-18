@@ -94,21 +94,11 @@ information using location-based services and digital technologies.
 
 ---
 
-## 📊 GitHub Stats
-
 ## 📊 GitHub Statistics
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=arindamsahoo2005&theme=tokyonight)
 
 ---
-
-## 📈 Contribution Graph
-
-![GitHub Streak](https://streak-stats.demolab.com?user=arindamsahoo2005&theme=tokyonight)
-
----
-
-## 🐍 Contribution Snake
 
 ## 🐍 Contribution Snake
 
@@ -125,7 +115,6 @@ information using location-based services and digital technologies.
     alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/arindamsahoo2005/arindamsahoo/output/github-contribution-grid-snake.svg">
 </picture>
-
 ---
 
 ## 🎯 My Goal
