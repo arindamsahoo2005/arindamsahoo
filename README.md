@@ -96,9 +96,9 @@ information using location-based services and digital technologies.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arindamsahoo2005&show_icons=true&theme=tokyonight)
+## 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arindamsahoo2005&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=arindamsahoo2005&theme=tokyonight)
 
 ---
 
@@ -110,7 +110,21 @@ information using location-based services and digital technologies.
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/arindamsahoo2005/arindamsahoo/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/arindamsahoo2005/arindamsahoo/output/github-contribution-grid-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/arindamsahoo2005/arindamsahoo/output/github-contribution-grid-snake.svg">
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/arindamsahoo2005/arindamsahoo/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
