@@ -1,5 +1,4 @@
-# Hi 👋 I'm Arindam Sahoo
-
+# Hi 👋 I'm Arindam Sahoo 🚀
 ### 💻 B.Tech Computer Science & Engineering Student | Aspiring Software Engineer
 
 I'm a Computer Science student passionate about software development,
